@@ -1,44 +1,31 @@
 # YAML 1.2
 ---
-authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6
-    
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Veloso
-    given-names: Eveline Alonso
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Baroni de Carvalho
-    given-names: Juliana Amaral 
+authors:
+  - family-names: Abreu dos Reis
+    given-names: Alice
+  - family-names: dos Reis Nascimento
+    given-names: Gabriel
+  - family-names: Luiz Zarate Teixeira
+    given-names: João
+  - family-names: Petronílio Martins de Abreu
+    given-names: Omar
+
   - name-suffix: Professor
     affiliation: PUC Minas
     family-names: Da Mota
     given-names: Rosilane Ribeiro
-  
+
 cff-version: "1.1.0"
-keywords: 
+keywords:
   - "Modelagem de Processos de Negócios"
-  - "Palavra chave 2"
-  - "Palavra chave 3"
+  - "Biblioteca"
+  - "Automação de Processos"
 message: |
-    "If you use this software, please cite it using these metadata.
-    Se você utilizar este software, por favor cite-o utilizando estes metadados."
-repository-code: "https://github.com/url do projeto"
-title: "Título do projeto"
+  "If you use this software, please cite it using these metadata.
+  Se você utilizar este software, por favor cite-o utilizando estes metadados."
+repository-code: "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe2-t2-bibliotech"
+title: "Bibliotech"
 abstract: |
-    "
-    Breve descrição do projeto
-    "
-...
+  "
+  "O projeto Bibliotech visa desenvolver um sistema de gerenciamento de biblioteca automatizado e eficiente, otimizando o controle de acervo, empréstimos e devoluções de livros."
+  "
